@@ -2,9 +2,9 @@
 
 **Prometheus makes a quantum chemistry and algorithm budget go further - reducing billed quantum hardware resources per confirmed molecular-energy result by 52% to 60% on IBM and IQM, leading a 7-family IQM compiler sweep, and validating multi-window execution on Amazon Braket.**
 
-- **Evaluate Prometheus on your workloads (or propose a joint chemistry pilot):** [prometheusdynamics.ca/connect](https://prometheusdynamics.ca/connect/) · [william@prometheusdynamics.ca](mailto:william@prometheusdynamics.ca?subject=Joint%20Quantum%20Chemistry%20Pilot)
+- **Evaluate Prometheus on your workloads (pharma, chemicals, materials & enterprise quantum teams):** [prometheusdynamics.ca/connect](https://prometheusdynamics.ca/connect/) · [william@prometheusdynamics.ca](mailto:william@prometheusdynamics.ca?subject=Joint%20Quantum%20Chemistry%20Pilot)
 - **Focused buyer & partner path:** [Chemistry & Quantum OS Overview](https://prometheusdynamics.ca/quantum/) -> [Search All 17 Study Repositories](https://prometheusdynamics.ca/evidence/) -> [Evaluate Your Workload](https://prometheusdynamics.ca/connect/)
-- **Why IQM & Amazon Braket care:** Helps **IQM** customers complete roughly twice as many confirmed chemistry calculations per Resonance credit (complemented by 84-job Garnet compilation and Emerald equal-packing studies), and offers **Amazon Braket** a customer-facing chemistry execution and verification workflow building on our Rigetti and QuEra Braket studies (keeping IBM/IQM hardware labels explicit on the 52%-60% chemistry savings).
+- **Why it matters across pharma, chemicals, materials & cloud platforms:** Drug-discovery conformer studies, catalysis, and battery-materials R&D require evaluating entire series of molecular geometries and optimization steps. Cutting billed QPU spend by 52% to 60% per confirmed energy result (paired with 33.8% to 36.9% lower correlated 8Q H4 error) lets R&D teams explore roughly twice as many structures per budget while giving enterprise teams and cloud platforms across IBM, IQM, and Amazon Braket auditable, reproducible outcomes.
 
 ---
 
