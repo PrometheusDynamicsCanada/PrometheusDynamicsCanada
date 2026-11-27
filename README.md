@@ -10,7 +10,7 @@
 
 ## Start Here: Featured Quantum Repositories (15 Quantum / 17 Study Repositories Overall)
 
-*Portfolio totals:* **1,069 completed benchmark jobs and tasks** (**1,081 total cloud provider records** including 12 auxiliary records, **24.64 million measurement shots**, and **0 duplicate IDs**). Supported pilot evaluations and live Pilot Console demonstrations are available today; partner funding builds the self-installable Python SDK, 24/7 queue failover, and always-on hosted web access.
+*Extent & longitudinal hardware depth (`June - November 2026`, `40` execution dates):* Tested across **7 physical QPUs from 4 vendors - IBM (`ibm_fez`, `ibm_kingston`, `ibm_marrakesh`), IQM (`IQM Emerald`, `IQM Garnet`), Rigetti (`Rigetti Cepheus-1-108Q`), and QuEra (`QuEra Aquila`)** - spanning **1,069 completed benchmark jobs and tasks** (**1,081 unique cloud provider records**, **15,912 circuits and schedules**, **24.64 million measurement shots**, and **0 duplicate IDs** across 15 public quantum repositories, replicated over separated calibration windows and pre-committed SHA-256 locks). Supported pilot evaluations and live Pilot Console demonstrations are available today; partner funding builds the self-installable Python SDK, 24/7 queue failover, and always-on hosted web access.
 
 | Priority | Repository | Plain-English Result & Comparator | Offline Verifier |
 | :---: | :--- | :--- | :--- |
